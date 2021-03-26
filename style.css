@@ -196,7 +196,7 @@ body {
 }
 
 .jumboHeaderImg {
-    background-image: url("images/pecem_01.jpg");
+    background-image: url("images/pecem_01.jpeg");
     background-size: cover;
     background-color: white;
     background-position: center;
@@ -205,7 +205,7 @@ body {
 }
 
 .jumboHeaderImgBios {
-    background-image: url("images/pecem_01.jpg");
+    background-image: url("images/pecem_01.jpeg");
     background-size: cover;
     background-color: white;
     background-position: center;
